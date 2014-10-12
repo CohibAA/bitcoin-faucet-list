@@ -31,11 +31,15 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 #### Sign Up For Micro Transaction Bitcion Faucets From These Providers:
 
+- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
+
 - [coinbox](http://www.coinbox.me/)
 
 - [microwallet](https://www.microwallet.org/)
 
 ##### If you like using your brain and taking some risk, this is a fun game using BTC:
+
+- [blockchain-reaction](http://blockchain-reaction.com/?ref=2823)
 
 ----
 
