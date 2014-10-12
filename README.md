@@ -24,12 +24,14 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 ----
 
-### Roll Dice for Satoshi Every Ten Minutes.
+### Roll Dice for Free Satoshi Every Ten Minutes.
 #### Pays directly to your Bitcoin Account.
 
 - [cripton](http://en.cripton.biz/?uid=29701)
 
-### Wager on Dice Rolls for Satoshi.  Faucet for new players.
+----
+
+### Wager BTC on Dice Rolls for Bitcoin.  Faucet for new players.
 #### Pays directly to your Bitcoin Account.
 
 - [primedice](https://primedice.com/?ref=CohibAA)
@@ -162,16 +164,6 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 [List of Dogecoin Faucets](http://cohibaa.github.io/dogecoin-faucet-list)
 
 [List of Litecoin Faucets](http://cohibaa.github.io/litecoin-faucet-list)
-
-
-
-
-
-
-
-
-
-
 
 
 
