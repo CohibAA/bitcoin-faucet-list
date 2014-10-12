@@ -7,11 +7,11 @@
 
 ##### Confirmed Paying Bitcoin Faucets Updated October 12, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
-1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ (BTC)
+(BTC) 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
 
-DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok (DOGE)
+(DOGE) DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 
-LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP (LTC)
+(LTC) LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
 ### Claim a Payout Every Hour on the following BTC faucets:
