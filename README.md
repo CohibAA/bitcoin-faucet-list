@@ -16,6 +16,8 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP (LTC)
 
 ### Claim a Payout Every Hour on the following BTC faucets:
 
+- [freebitcoin](http://freebitco.in/?r=368365)
+
 - [dailybitcoins](http://dailybitcoins.org/index.php)
  
 
