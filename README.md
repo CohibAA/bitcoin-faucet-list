@@ -15,18 +15,21 @@ DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 (LTC):
 LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
+----
 
 ### Claim a Payout Every Five Minutes on this BTC Faucet.
 #### Pays directly to your Bitcoin Account:
 
 - [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
 
+----
 
 ### Roll Dice for Satoshi Every Ten Minutes.
 #### Pays directly to your Bitcoin Account.
 
 - [cripton](http://en.cripton.biz/?uid=29701)
 
+----
 
 ### Claim a Payout Every Hour on the following BTC faucets.
 #### Pays directly to your Bitcoin Account.
@@ -37,6 +40,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [dailybitcoins](http://dailybitcoins.org/index.php)
 
+----
 
 
 ### Claim a Payout Every 24 Hours on the following BTC faucets.
@@ -47,8 +51,23 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [bithits](http://www.BitHits.info/index.php?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 
-#### Microwallet Bitcoin Cumulative Faucets.  
+----
+
+
+#### [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
 ##### Pays directly to your Bitcoin Account
+
+###### Vistibit lets you surf pages on a timer, and receive microwallet payments immediately for every page view completed.
+
+- [visitbit](http://visitbit.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+
+###### LandofBitcoin helps you surf faucets with no timer, most of which are microwallet payouts.
+
+- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
+
+
+###### These are normal faucets that accumulate payments to microwallet.
 
 - [btcfaucetlist](http://www.btcfaucetlist.net/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
@@ -102,6 +121,8 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
+
+----
 
 
 ###### If you like using your brain and taking some risk, this is a fun game using BTC:
