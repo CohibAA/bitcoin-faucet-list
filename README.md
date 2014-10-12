@@ -29,6 +29,11 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [cripton](http://en.cripton.biz/?uid=29701)
 
+### Wager on Dice Rolls for Satoshi.  Faucet for new players.
+#### Pays directly to your Bitcoin Account.
+
+- [primedice](https://primedice.com/?ref=CohibAA)
+
 ----
 
 ### Claim a Payout Every Hour on the following BTC faucets.
@@ -56,11 +61,6 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 #### [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
 ##### Pays directly to your Bitcoin Account
-
-###### Vistibit lets you surf pages on a timer, and receive microwallet payments immediately for every page view completed.
-
-- [visitbit](http://visitbit.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
 
 ###### LandofBitcoin helps you surf faucets with no timer, most of which are microwallet payouts.
 
@@ -122,10 +122,35 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 
+###### BTCClicks lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
+
+- [visitbit](http://visitbit.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+
+###### Vistibit lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
+
+- [visitbit](http://visitbit.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+
+###### Bitvisitor lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
+
+- [bitvisitor](http://www.bitvisitor.com/?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+
+###### CoinAd lets you surf ads on a timer to receive payments directly your your Bitcoin wallet.
+
+- [CoinAd](https://coinad.com/?r=WKBHXFPK5N9KM25)
+
+
+###### Freebitcoin lets you surf offers to receive payments directly your your Bitcoin wallet.
+
+- [freebitcoin](www.freebitcoin.ws/?r=zkfu5d)
+
+
 ----
 
 
-###### If you like using your brain and taking some risk, this is a fun game using BTC:
+###### If you like using your brain and taking some risk, blockchain-reaction is a fun game using BTC:
 
 - [blockchain-reaction](http://blockchain-reaction.com/?ref=2823)
 
