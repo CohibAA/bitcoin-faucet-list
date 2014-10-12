@@ -29,7 +29,13 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [QoinPro](https://qoinpro.com/ff7df3e8e99187302db89a63da19a46f): Sign Up Once, Automatic Payouts Every Day
 
 
+#### Sign Up For Micro Transaction Bitcion Faucets From These Providers:
 
+- [coinbox](http://www.coinbox.me/)
+
+- [microwallet](https://www.microwallet.org/)
+
+##### If you like using your brain and taking some risk, this is a fun game using BTC:
 
 ----
 
