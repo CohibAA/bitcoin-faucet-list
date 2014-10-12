@@ -17,9 +17,16 @@ DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
+### Claim a Payout Every Five Minutes on the following BTC faucets:
+
+- [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
+
+
 ### Claim a Payout Every Hour on the following BTC faucets:
 
 - [freebitcoin](http://freebitco.in/?r=368365)
+
+- [bitcoinzebra](http://faucet.bitcoinzebra.com/?ref=fbab8f28e8cf)
 
 - [dailybitcoins](http://dailybitcoins.org/index.php)
  
@@ -36,8 +43,16 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
 
 - [coinbox](http://www.coinbox.me/)
+- 
 
-- [microwallet](https://www.microwallet.org/)
+#### Microwallet Bitcoin Faucets
+
+- [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [bitcoinker](http://bitcoinker.com/faucet?ref=e80f35a2f02b)
+
+- [fairyfaucet](http://fairyfaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
 
 ##### If you like using your brain and taking some risk, this is a fun game using BTC:
 
