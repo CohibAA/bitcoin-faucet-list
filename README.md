@@ -73,19 +73,19 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [btcfaucetlist](http://www.btcfaucetlist.net/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [dailyfreebits](http://dailyfreebits.com/?id=3527628)
+- [dailyfreebits](http://dailyfreebits.com/?id=3527628) 60 Minutes
 
 - [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [bitcoinker](http://bitcoinker.com/faucet?ref=e80f35a2f02b)
+- [bitcoinker](http://bitcoinker.com/faucet?ref=e80f35a2f02b): 15 Minutes
 
 - [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
 
-- [fairyfaucet](http://fairyfaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+- [fairyfaucet](http://fairyfaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) Variable 5-60 minutes
 
-- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) **NSF on Oct. 13, 2013**
 
-- [coingiveaway](http://www.coin-giveaway.info/?ref=60a5d3d985a1)
+- [coingiveaway](http://www.coin-giveaway.info/?ref=60a5d3d985a1) 60 Minutes
 
 - [dancefaucet](http://dancefaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
@@ -93,7 +93,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [bitcoingenie](http://bitcoingenie.info/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [cryptoblox](http://www.cryptoblox.com/faucets/BitCoin/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+- [cryptoblox](http://www.cryptoblox.com/faucets/BitCoin/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 60 Minutes
  
 - [rtube](http://www.rtube.de/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
