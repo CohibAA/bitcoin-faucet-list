@@ -1,11 +1,10 @@
 # List of Free Bitcoin Faucets.
 
 #### You must have a Bitcoin Wallet to use the BTC faucets.
-### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
+##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
+##### Electrum BTC Wallet is highly recommended
 
-(I highly the recommend Electrum BTC Wallet)
-
-##### Confirmed Paying Bitcoin Faucets Updated October 12, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 13, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
@@ -17,46 +16,95 @@ DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
-### Claim a Payout Every Five Minutes on the following BTC faucets:
+### Claim a Payout Every Five Minutes on this BTC Facuet. Pays directly to your Bitcoin Account:
 
 - [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
 
 
-### Claim a Payout Every Hour on the following BTC faucets:
+### Roll Dice for Satoshi Every Ten Minutes. Pays directly to your Bitcoin Account:
+
+- [cripton](http://en.cripton.biz/?uid=29701)
+
+
+### Claim a Payout Every Hour on the following BTC faucets. Pays directly to your Bitcoin Account:
 
 - [freebitcoin](http://freebitco.in/?r=368365)
 
 - [bitcoinzebra](http://faucet.bitcoinzebra.com/?ref=fbab8f28e8cf)
 
 - [dailybitcoins](http://dailybitcoins.org/index.php)
- 
 
-### Claim a Payout Every 24 Hours on the following BTC faucets:
+
+
+### Claim a Payout Every 24 Hours on the following BTC faucets.  Pays directly to your Bitcoin Account:
 
 - [QoinPro](https://qoinpro.com/ff7df3e8e99187302db89a63da19a46f): Sign Up Once, Automatic Payouts Every Day
 
 - [bithits](http://www.BitHits.info/index.php?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 
-#### Sign Up For Micro Transaction Bitcion Faucets From These Providers:
+#### Microwallet Bitcoin Cumulative Faucets.  
+#### Pay directly to your Bitcoin Account Weekly if minimum 0.00005825 BTC Earned.
 
-- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
+- [btcfaucetlist](http://www.btcfaucetlist.net/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [coinbox](http://www.coinbox.me/)
-- 
-
-#### Microwallet Bitcoin Faucets
+- [dailyfreebits](http://dailyfreebits.com/?id=3527628)
 
 - [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 - [bitcoinker](http://bitcoinker.com/faucet?ref=e80f35a2f02b)
 
+- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
+
 - [fairyfaucet](http://fairyfaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [coingiveaway](http://www.coin-giveaway.info/?ref=60a5d3d985a1)
+
+- [dancefaucet](http://dancefaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [btcmountain](http://btcmountain.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [bitcoingenie](http://bitcoingenie.info/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [cryptoblox](http://www.cryptoblox.com/faucets/BitCoin/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+ 
+- [rtube](http://www.rtube.de/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [satoshis4us](http://www.satoshis4.us/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [bitcoinfreebees](http://www.bitcoinfreebees.me/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [flyingfaucet](http://www.flyingfaucet.com/?ref=48504)
+
+- [spinandwin](http://spinandw.in/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [scratch4satoshis](http://www.scratch4satoshis.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [moneyinpjs](http://moneyinpjs.com/BTCfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [therunningfaucet](http://www.therunningfaucet.com/?ref=46562)
+
+- [pinktussy](http://www.pinktussy.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [coinracket](http://www.coinracket.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [thebitcoinsheep](http://www.thebitcoinsheep.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [robcoins](http://www.robcoins.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [bit4surf](http://bit4surf.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+- [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
 
 
 ##### If you like using your brain and taking some risk, this is a fun game using BTC:
 
 - [blockchain-reaction](http://blockchain-reaction.com/?ref=2823)
+
+
 
 ----
 
