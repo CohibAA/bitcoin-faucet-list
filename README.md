@@ -16,17 +16,20 @@ DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
-### Claim a Payout Every Five Minutes on this BTC Facuet. Pays directly to your Bitcoin Account:
+### Claim a Payout Every Five Minutes on this BTC Faucet.
+#### Pays directly to your Bitcoin Account:
 
 - [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
 
 
-### Roll Dice for Satoshi Every Ten Minutes. Pays directly to your Bitcoin Account:
+### Roll Dice for Satoshi Every Ten Minutes.
+#### Pays directly to your Bitcoin Account.
 
 - [cripton](http://en.cripton.biz/?uid=29701)
 
 
-### Claim a Payout Every Hour on the following BTC faucets. Pays directly to your Bitcoin Account:
+### Claim a Payout Every Hour on the following BTC faucets.
+#### Pays directly to your Bitcoin Account.
 
 - [freebitcoin](http://freebitco.in/?r=368365)
 
@@ -36,7 +39,8 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
 
-### Claim a Payout Every 24 Hours on the following BTC faucets.  Pays directly to your Bitcoin Account:
+### Claim a Payout Every 24 Hours on the following BTC faucets.
+#### Pays directly to your Bitcoin Account.
 
 - [QoinPro](https://qoinpro.com/ff7df3e8e99187302db89a63da19a46f): Sign Up Once, Automatic Payouts Every Day
 
@@ -44,7 +48,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
 #### Microwallet Bitcoin Cumulative Faucets.  
-#### Pay directly to your Bitcoin Account Weekly if minimum 0.00005825 BTC Earned.
+##### Pays directly to your Bitcoin Account
 
 - [btcfaucetlist](http://www.btcfaucetlist.net/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
@@ -100,7 +104,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 
 
-##### If you like using your brain and taking some risk, this is a fun game using BTC:
+###### If you like using your brain and taking some risk, this is a fun game using BTC:
 
 - [blockchain-reaction](http://blockchain-reaction.com/?ref=2823)
 
