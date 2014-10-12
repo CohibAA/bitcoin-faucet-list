@@ -10,7 +10,7 @@
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
 
-(DOGE)
+(DOGE):
 DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok
 
 (LTC):
