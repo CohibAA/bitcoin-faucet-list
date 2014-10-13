@@ -64,7 +64,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 #### [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
 ##### Pays directly to your Bitcoin Account
 
-###### LandofBitcoin helps you surf faucets with no timer, most of which are microwallet payouts.
+###### LandofBitcoin helps you automatically surf faucets, the majority of which payout to microwallet.  You will be automatically directed to the highest paying faucets when they are ready to pay you by using the link below.  This means you do not have to visit the other normal microwallet faucets listed below at the shown durations, as LoB will keep track of the timing and best payouts for you!
 
 - [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
 
@@ -109,29 +109,25 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [therunningfaucet](http://www.therunningfaucet.com/?ref=46562) 3 Hours
 
+- [bit4surf](http://bit4surf.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours
+
 - [btcmountain](http://btcmountain.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours 30 Minutes
 
 - [anonprofile](http://www.anonprofile.com/faucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 4 Hours
 
+- [bitcoingenie](http://bitcoingenie.info/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 6 Hours
+
+- [dancefaucet](http://dancefaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 12 Hours
+
+- [moneyinpjs](http://moneyinpjs.com/BTCfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 12 Hours
+
+- [bitcoinfreebees](http://www.bitcoinfreebees.me/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 23 Hours
+
 - [satoshis4us](http://www.satoshis4.us/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 23 Hours
 
+- [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 23 Hours
 
-- [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
-
-- [dancefaucet](http://dancefaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [bit4surf](http://bit4surf.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [bitcoingenie](http://bitcoingenie.info/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [bitcoinfreebees](http://www.bitcoinfreebees.me/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-- [moneyinpjs](http://moneyinpjs.com/BTCfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 
-
+- [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 24 Hours
 
 
 
