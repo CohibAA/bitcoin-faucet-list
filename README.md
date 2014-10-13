@@ -17,50 +17,6 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 ----
 
-### Claim a Payout Every Five Minutes or wait longer for a higher payout on this BTC Faucet.
-#### Pays directly to your Bitcoin Account:
-
-- [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
-
-----
-
-### Roll Dice for Free Satoshi Every Ten Minutes.
-#### Pays directly to your Bitcoin Account.
-
-- [cripton](http://en.cripton.biz/?uid=29701)
-
-----
-
-### Wager BTC on Dice Rolls for Bitcoin.  Faucet for new players.
-#### Pays directly to your Bitcoin Account.
-
-- [primedice](https://primedice.com/?ref=CohibAA)
-
-----
-
-### Claim a Payout Every Hour on the following BTC faucets.
-#### Pays directly to your Bitcoin Account.
-
-- [freebitcoin](http://freebitco.in/?r=368365)
-
-- [bitcoinzebra](http://faucet.bitcoinzebra.com/?ref=fbab8f28e8cf)
-
-- [dailybitcoins](http://dailybitcoins.org/index.php)
-
-----
-
-
-### Claim a Payout Every 24 Hours on the following BTC faucets.
-#### Pays directly to your Bitcoin Account.
-
-- [QoinPro](https://qoinpro.com/ff7df3e8e99187302db89a63da19a46f): Sign Up Once, Automatic Payouts Every Day
-
-- [bithits](http://www.BitHits.info/index.php?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-
-----
-
-
 #### [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
 ##### Pays directly to your Bitcoin Account
 
@@ -129,7 +85,57 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [darrentapp](http://www.darrentapp.com/faucet/index.php?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 24 Hours
 
+----
 
+### Claim a Payout Every Five Minutes or wait longer for a higher payout on this BTC Faucet.
+#### Pays directly to your Bitcoin Account:
+
+- [moonbitcoin](http://moonbit.co.in/?ref=a75dfd2c470e)
+
+----
+
+### Roll Dice for Free Satoshi Every Ten Minutes.
+#### Pays directly to your Bitcoin Account.
+
+- [cripton](http://en.cripton.biz/?uid=29701)
+
+----
+
+### Wager BTC on Dice Rolls for Bitcoin.  Faucet for new players.
+#### Pays directly to your Bitcoin Account.
+
+- [primedice](https://primedice.com/?ref=CohibAA)
+
+----
+
+### Claim a Payout Every Hour on the following BTC faucets.
+#### Pays directly to your Bitcoin Account.
+
+- [freebitcoin](http://freebitco.in/?r=368365)
+
+- [bitcoinzebra](http://faucet.bitcoinzebra.com/?ref=fbab8f28e8cf)
+
+- [dailybitcoins](http://dailybitcoins.org/index.php)
+
+- [gratisbitcoin](http://www.gratisbitco.in/?referrer=254423c4b2)
+
+----
+
+### Claim a Payout Every 3 Hours on the following BTC faucets.
+#### Pays directly to your Bitcoin Account.
+
+- [bitcoinfaucet](http://bitcoinfaucet.tk/?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+----
+
+### Claim a Payout Every 24 Hours on the following BTC faucets.
+#### Pays directly to your Bitcoin Account.
+
+- [QoinPro](https://qoinpro.com/ff7df3e8e99187302db89a63da19a46f): Sign Up Once, Automatic Payouts Every Day
+
+- [bithits](http://www.BitHits.info/index.php?ref=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+
+----
 
 ###### BTCClicks lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
 
