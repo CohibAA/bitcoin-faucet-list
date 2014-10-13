@@ -79,6 +79,8 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [scratch4satoshis](http://www.scratch4satoshis.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 15 Minutes
 
+- [satoshis4us](http://www.satoshis4.us/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 15 Minutes
+
 - [fairyfaucet](http://fairyfaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) Varies 5-60 Minutes
 
 - [dailyfreebits](http://dailyfreebits.com/?id=3527628) 60 Minutes
@@ -101,13 +103,22 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [robcoins](http://www.robcoins.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 60 Minutes
 
+- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 2 Hours **NSF on Oct. 13, 2013**
+
+- [pizzafaucet](http://www.pizzafaucet.com/?ref=107782) 3 Hours
+
+- [therunningfaucet](http://www.therunningfaucet.com/?ref=46562) 3 Hours
+
+- [btcmountain](http://btcmountain.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours 30 Minutes
+
+- [anonprofile](http://www.anonprofile.com/faucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 4 Hours
+
+- [satoshis4us](http://www.satoshis4.us/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 23 Hours
 
 
 - [rabbitcoin](http://www.rabbitcoin.biz/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 - [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
-
-- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) **NSF on Oct. 13, 2013**
 
 - [dancefaucet](http://dancefaucet.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
@@ -117,19 +128,9 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [bitcoingenie](http://bitcoingenie.info/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [satoshis4us](http://www.satoshis4.us/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
 - [bitcoinfreebees](http://www.bitcoinfreebees.me/microfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
-- [moneyinpjs](http://moneyinpjs.com/BTCfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
-
-
-
-- [pizzafaucet](http://www.pizzafaucet.com/?ref=107782) 3 Hours
-
-- [therunningfaucet](http://www.therunningfaucet.com/?ref=46562) 3 Hours
-
-- [btcmountain](http://btcmountain.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours 30 Minutes
+- [moneyinpjs](http://moneyinpjs.com/BTCfaucet/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 
 
 
 
