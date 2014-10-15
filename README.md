@@ -4,7 +4,7 @@
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
 ##### Electrum BTC Wallet is highly recommended
 
-##### Confirmed Paying Bitcoin Faucets Updated October 13, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 15, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
@@ -17,15 +17,15 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 ----
 
-#### [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
-##### Pays directly to your Bitcoin Account
+## [Microwallet](https://www.microwallet.org/) Bitcoin Cumulative Faucets.  
+### Pays directly to your Bitcoin Account
 
-###### LandofBitcoin helps you automatically surf faucets, the majority of which payout to microwallet.  You will be automatically directed to the highest paying faucets when they are ready to pay you by using the link below.  This means you do not have to visit the other normal microwallet faucets listed below at the shown durations, as LoB will keep track of the timing and best payouts for you!
+#### LandofBitcoin helps you automatically visit faucets, the majority of which payout to microwallet.  You will be automatically directed to the highest paying faucets when they are ready to pay you by using the link below.  This means you do not have to visit the other normal microwallet faucets listed below at the shown durations, as LoB will keep track of the timing and best payouts for you!
 
-- [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
+#### - [landofbitcoin](https://www.landofbitcoin.com/?r=8l8HoZp3t2A2fNlk)
 
 
-###### These are normal faucets that accumulate payments to microwallet.
+###### These are normal faucets that accumulate payments to microwallet and are automatically included when you use the link above from Land of Bitcoin.
 
 - [bitcard](http://bitcard.ws/?uid=28837) Dice Roll Every 10 Minutes.  Site is Russian.
 
