@@ -4,7 +4,7 @@
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
 ##### Electrum BTC Wallet is highly recommended
 
-##### Confirmed Paying Bitcoin Faucets Updated October 15, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 16, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
@@ -139,7 +139,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 ###### BTCClicks lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
 
-- [visitbit](http://visitbit.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
+- [BTCClicks](http://btcclicks.com/?r=a145305a)
 
 
 ###### Vistibit lets you surf pages on a timer to receive payments directly your your Bitcoin wallet.
