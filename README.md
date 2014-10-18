@@ -4,7 +4,7 @@
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
 ##### Electrum BTC Wallet is highly recommended
 
-##### Confirmed Paying Bitcoin Faucets Updated October 17, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 18, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
@@ -66,6 +66,8 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [therunningfaucet](http://www.therunningfaucet.com/?ref=46562) 3 Hours
 
 - [bit4surf](http://bit4surf.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours
+
+- [myfreebitcoins](http://myfreebitcoins.org/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ)
 
 - [btcmountain](http://btcmountain.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 3 Hours 30 Minutes
 
