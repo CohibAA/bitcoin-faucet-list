@@ -4,7 +4,7 @@
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
 ##### Electrum BTC Wallet is highly recommended
 
-##### Confirmed Paying Bitcoin Faucets Updated October 18, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 19, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
@@ -59,7 +59,7 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 
 - [robcoins](http://www.robcoins.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 60 Minutes
 
-- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 2 Hours **NSF on Oct. 13, 2013**
+- [bosshippie](http://faucet.bosshippie.com/?r=1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ) 2 Hours
 
 - [pizzafaucet](http://www.pizzafaucet.com/?ref=107782) 3 Hours
 
