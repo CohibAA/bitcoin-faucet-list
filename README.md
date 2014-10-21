@@ -4,7 +4,7 @@
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
 ##### Electrum BTC Wallet is highly recommended
 
-##### Confirmed Paying Bitcoin Faucets Updated October 19, 2014
+##### Confirmed Paying Bitcoin Faucets Updated October 21, 2014
 ##### If you find this list useful, please consider tipping or donating some coins to
 (BTC):
 1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ
