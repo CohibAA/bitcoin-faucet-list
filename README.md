@@ -172,6 +172,12 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 - [blockchain-reaction](http://blockchain-reaction.com/?ref=2823)
 
 
+###### Completely anonymous wagering on worldwide sports, politics, and much more.  No registration.
+###### Wagers in Bitcoin, Litecoin, and Dogecoin Accepted
+
+- [DirectBet](http://www.directbet.eu?AffiliateID=1LxKPSgnX4TkxLik4Ejy94j3Mmt2XTuJW8)
+
+
 
 ----
 
