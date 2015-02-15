@@ -184,9 +184,9 @@ LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP
 ----
 
 
-[List of Dogecoin Faucets](http://cohibaa.github.io/dogecoin-faucet-list)
+[List of Dogecoin Faucets](http://dogecoin-p2pool.com/dogecoin_faucet_list.html)
 
-[List of Litecoin Faucets](http://cohibaa.github.io/litecoin-faucet-list)
+[List of Litecoin Faucets](http://litecoin-p2pool.com/litecoin_faucet_list.html)
 
 
 
