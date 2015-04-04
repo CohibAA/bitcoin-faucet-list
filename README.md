@@ -1,6 +1,6 @@
 # List of Free Bitcoin Faucets.
 
-### Confirmed Paying Bitcoin Faucets Updated at [Bitcoin-P2Pool](http://bitcoin-p2pool.com)
+### Confirmed Paying Bitcoin Faucets Updated at [Bitcoin-P2Pool](http://bitcoin-p2pool.com/bitcoin_faucet_list.html)
 
 #### You must have a Bitcoin Wallet to use the BTC faucets.
 ##### You can download a wallet from the [Bitcoin Official Site](https://bitcoin.org/)
